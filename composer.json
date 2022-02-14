@@ -32,8 +32,8 @@
     },
     "autoload": {
         "psr-0": {
-            "Irontec\\MobileDetectBundle": ""
+            "SunCat\\MobileDetectBundle": ""
         }
     },
-    "target-dir": "Irontec/MobileDetectBundle"
+    "target-dir": "SunCat/MobileDetectBundle"
 }
