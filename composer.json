@@ -1,8 +1,8 @@
 {
-    "name": "suncat/mobile-detect-bundle",
-    "description": "Symfony2/3/4 bundle for detect mobile devices, managing mobile view types, redirect to mobile version.",
+    "name": "irontec/mobile-detect-bundle",
+    "description": "Symfony2/3/4/5 bundle for detect mobile devices, managing mobile view types, redirect to mobile version.",
     "keywords": ["mobile", "mobile detect", "symfony mobile", "mobile view managing", "mobile redirect"],
-    "homepage": "https://github.com/suncat2000/MobileDetectBundle",
+    "homepage": "https://github.com/irontec/MobileDetectBundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
@@ -32,8 +32,8 @@
     },
     "autoload": {
         "psr-0": {
-            "SunCat\\MobileDetectBundle": ""
+            "Irontec\\MobileDetectBundle": ""
         }
     },
-    "target-dir": "SunCat/MobileDetectBundle"
+    "target-dir": "Irontec/MobileDetectBundle"
 }
